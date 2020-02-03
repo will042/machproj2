@@ -13,11 +13,18 @@
 % 	This File
 %
 %-------------------------------------------------------------------------%
+% Cam Project Report.pdf
+%
+% Report written in conjunction with the code for this project. Provides
+% a full description of code functionality.
+%
+%-------------------------------------------------------------------------%
 % pointgen.m
 %
 % Used in conjuntion with a 2:1 (x:y) ratio image to generate a points to
 % be used for cam generation. Specify filename at the top of script. See
 % report for more information.
+%
 %-------------------------------------------------------------------------%
 % camgen.m
 %
