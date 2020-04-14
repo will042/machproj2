@@ -1,8 +1,6 @@
 % ME 4133: Machine Design I  |  Cam Mechanism Project
 %
 % William Ard
-% Hector Arredondo
-% Miranda Pepper
 %
 %-------------------------------------------------------------------------%
 % Description of files contained:
